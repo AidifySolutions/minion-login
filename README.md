@@ -20,12 +20,12 @@ This fun and interactive project adds a playful touch to your login screen with 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/minion-login-animation.git
+   git clone https://github.com/yourusername/minion-login.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd minion-login-animation
+   cd minion-login
    ```
 
 3. **Open `index.html` in your browser** to see the animation in action.
