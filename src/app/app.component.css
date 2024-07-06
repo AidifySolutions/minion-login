@@ -1,0 +1,29 @@
+.login_container{
+  width: fit-content;
+  margin: auto;
+}
+/* input[type=password]{ */
+input{
+  letter-spacing: 10px;
+}
+.minion_container{
+  text-align: center;
+  background: url(./../assets/images/minion.png) no-repeat center center;
+  background-size: contain;
+  height: 15rem;
+  margin-top: 3px;
+}
+.minion_container img{
+  position: relative;
+  width: 9rem;
+  top: 84px;
+  left: -22px;
+}
+
+input:focus{
+  border-bottom: 1px solid #ffd54f !important;
+  box-shadow: 0 1px 0 0 #ffd54f !important;
+}
+input:focus + label{
+  color: #ffd54f !important;
+}
